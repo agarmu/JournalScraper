@@ -3,7 +3,7 @@ import FoundationNetworking
 import SwiftSoup
 
 
-print(CommandLine.arguments)
+
 let name = "Mukul Agarwal"
 let helpReceived = CommandLine.arguments[2]
 let helpGiven = CommandLine.arguments[3]
